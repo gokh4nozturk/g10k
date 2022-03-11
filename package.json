@@ -1,0 +1,8 @@
+{
+  "name": "g10k",
+  "version": "0.0.1",
+  "description": "Gokhan Ozturk About",
+  "main": "g10k.js",
+  "author": "Gökhan Öztürk <gokhaanozturk@gmail.com>",
+  "license": "MIT"
+}
