@@ -2,7 +2,25 @@
   "name": "g10k",
   "version": "0.0.1",
   "description": "Gokhan Ozturk About",
-  "main": "g10k.js",
+  "bin": {
+    "g10k": "g10k.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokhannozturk/g10k.git"
+  },
+  "keywords": [
+    "g10k",
+    "gokhanozturk"
+  ],
   "author": "Gökhan Öztürk <gokhaanozturk@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gokhannozturk/g10k/issues"
+  },
+  "homepage": "https://github.com/gokhannozturk/g10k#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
 }
